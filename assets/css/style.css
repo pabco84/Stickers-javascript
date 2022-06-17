@@ -1,0 +1,17 @@
+.global{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.card{
+    padding: 2%;
+    width: 200px;
+    grid-area: card;
+}
+
+.containter{
+    grid-area: bot;
+}
+
+
